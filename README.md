@@ -1,6 +1,6 @@
 <!-- Google Font: Cormorant Garamond (elegant serif) -->
 <div align="center">
-  <img src="./Black.png" width="100%" height="320" style="object-fit: cover;"/>
+  <img src="./assets/Banner.png" width="100%" height="300" style="object-fit: cover;"/>
 </div>
 
 <br/>
@@ -32,25 +32,22 @@
 
 <h2 align="center"><em> ✦ About Me ✦ </em></h2>
 
-<table border="0" style="border: none; border-collapse: collapse; background: transparent;" width="100%">
-  <tr style="border: none; background: transparent;">
-    <td width="68%" valign="middle" style="border: none; background: transparent; padding-right: 24px;">
-      <p>
-        Hello! <em><b>I'm Pethuraja C</b></em> — a passionate <b>MERN Stack Developer</b> with <b>1+ year of professional experience</b> building responsive, scalable web apps using <b>React.js, Next.js</b> and <b>TypeScript</b>. Skilled across the full stack — REST APIs, JWT auth, WebSockets, Redux Toolkit.
-      </p>
-      <br/>
-      <p>
-        &nbsp;◈ &nbsp;<em><b>Frontend Developer — Alpharive Tech Pvt. Ltd. (2025 – 2026)</b></em><br/>
-        &nbsp;◈ &nbsp;<em><b>B.C.A — Ayya Nadar Janaki Ammal College &nbsp;|&nbsp; CGPA: 6.8</b></em><br/>
-        &nbsp;◈ &nbsp;<em><b>Built: Upzud · FinTrackz · CrownKey</b></em><br/>
-        &nbsp;◈ &nbsp;<em><b>Exploring: Docker · System Design · Microservices</b></em>
-      </p>
-    </td>
-    <td width="32%" align="center" valign="middle" style="border: none; background: transparent;">
-      <video src="./1.mp4" width="200" height="260" style="border-radius: 12px; object-fit: cover;" autoplay loop muted></video>
-    </td>
-  </tr>
-</table>
+<img src="./assets/Img.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px;" alt="coding gif"/>
+
+<p>
+  Hello! <em><b>I'm Pethuraja C</b></em> — a passionate <b>MERN Stack Developer</b> with <b>1+ year of professional experience</b> building responsive, scalable web apps using <b>React.js, Next.js</b> and <b>TypeScript</b>. Skilled across the full stack — REST APIs, JWT auth, WebSockets, Redux Toolkit.
+</p>
+
+<br/>
+
+<p>
+  &nbsp;◈ &nbsp;<em><b>Frontend Developer — Alpharive Tech Pvt. Ltd. (2025 – 2026)</b></em><br/>
+  &nbsp;◈ &nbsp;<em><b>B.C.A — Ayya Nadar Janaki Ammal College &nbsp;|&nbsp; CGPA: 6.8</b></em><br/>
+  &nbsp;◈ &nbsp;<em><b>Built: Upzud · FinTrackz · CrownKey</b></em><br/>
+  &nbsp;◈ &nbsp;<em><b>Exploring: Docker · System Design · Microservices</b></em>
+</p>
+
+<br/>
 
 <br/>
 
